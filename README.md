@@ -109,6 +109,7 @@ We can do better by using IPFS (links are uniquely related to the hash of the me
 * TSF | Space Cowboy : https://twitter.com/topshotfund exposed the Mark Cuban nft scam on instagram.
 * Jean-Michel Pailhon : https://twitter.com/jmpailhon Ledger chief of staff, NFT collector (owns 3 PPs)
 * Ombeline Rosset : https://twitter.com/cabline1 Tezos NFTs (objkt.com marketplace)
+* James Merrill aka Lostpixels : https://twitter.com/toThePixel
 
  
  
