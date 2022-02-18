@@ -120,5 +120,6 @@ We can do better by using IPFS (links are uniquely related to the hash of the me
 * OpenDAO ($SOS, https://twitter.com/The_OpenDAO) : also own a prediction market for NFTs and an NFT launchpad (https://twitter.com/721Starter)
 * eGirl Capital (https://twitter.com/egirl_capital)
 * UltraDAO (https://twitter.com/Ultra_DAO)
-* TreasureDAO
+* TreasureDAO https://mobile.twitter.com/Treasure_DAO
+* Botto DAO https://twitter.com/BottoDAO
 * LooksRare - NFT Marketplace (https://twitter.com/LooksRareNFT) : not really a DAO but a marketplace bootstraped with an airdrop for opensea users (like $SOS ). Very interesting tokenomics (2% fees instead of 2.5% like opensea AND buyers get a cashback in $LOOKS compensating sometimes totally those fees, which incentivizes wash trading and huge volume, greater than opensea)
