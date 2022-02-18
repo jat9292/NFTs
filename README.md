@@ -89,6 +89,7 @@ We can do better by using IPFS (links are uniquely related to the hash of the me
 * Trad Social Media which are implementing NFTs creation : TikTok, Instagram, Youtube.
 * New web3 social media : So-col, Lens protocol, Bitclout (DeSo) 
 * Newspaper on NFTs : https://www.rightclicksave.com/ 
+* News : https://nftnow.com/
 * Podcast on NFTs : https://jpegs.banklesshq.com/ 
 * Rarity computation on famous collections: https://rarity.tools/ 
 * Another rarity tool (with other collections): https://raritysniper.com/ 
